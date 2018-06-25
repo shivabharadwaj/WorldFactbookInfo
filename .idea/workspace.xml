@@ -21,36 +21,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Country.class" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Country.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="27" selection-end-column="1" />
-              <folding>
-                <element signature="e#0#590#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="readme.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/out/production/hw3/readme.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GetInfo.class" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GetInfo.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1140">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="536" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#21506#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
